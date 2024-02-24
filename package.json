@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@vercel/analytics": "^1.2.2",
+    "aos": "^2.3.4",
     "vue": "^3.4.15",
     "vuetify": "^3.5.6"
   },
