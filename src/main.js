@@ -14,5 +14,6 @@ const vuetify = createVuetify({
   components,
   directives
 })
+inject()
 
-createApp(App).inject(inject).use(vuetify).mount('#app')
+createApp(App).use(vuetify).mount('#app')
