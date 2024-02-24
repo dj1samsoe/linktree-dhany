@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: monospace;
+}
+
+body {
+  background-color: #272727;
+  min-height: 100vh;
+  padding: 40px 20px;
+  width: 100%;
+  max-width: 854px;
+  margin: 0 auto;
+}
