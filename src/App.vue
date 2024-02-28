@@ -25,7 +25,7 @@ const links = [
 
 <template>
   <header
-    class="flex flex-col space-y-5 items-center justify-center px-5 pt-10"
+    class="flex flex-col space-y-5 items-center justify-center px-5 py-10"
     data-aos="fade-up"
     data-aos-duration="1000"
     data-aos-once="true"
@@ -36,7 +36,7 @@ const links = [
       Who is a enthusiast in Software Engineer with a strong emphasis on Frontend Development
     </p>
   </header>
-  <main class="w-full px-5">
+  <main class="w-full px-5 pb-10">
     <ul>
       <li class="w-full flex flex-col space-y-4 items-center justify-center transition-all">
         <a
